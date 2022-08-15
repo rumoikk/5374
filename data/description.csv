@@ -6,7 +6,7 @@ label,sublabel,description,styles,bgcolor
 プラスチック製容器,,,,#27a047
 かん,,,,#91dde7
 びん,,,,#91dde7
-新聞紙,,,,#77ae1f
+新聞,,,,#77ae1f
 雑誌,,,,#77ae1f
 ダンボール,,,,#77ae1f
 紙パック,,,,#77ae1f
@@ -20,3 +20,4 @@ label,sublabel,description,styles,bgcolor
 粗大ごみ,,,,#08b925
 剪定枝,,,,#bbe400
 草,,,,#bbe400
+その他,,,,
